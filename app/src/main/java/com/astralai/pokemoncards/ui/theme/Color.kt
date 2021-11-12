@@ -35,3 +35,18 @@ val TypeDragon = Color(0xFF6F35FC)
 val TypeDark = Color(0xFF705746)
 val TypeSteel = Color(0xFFB7B7CE)
 val TypeFairy = Color(0xFFD685AD)
+
+val FunctionalGrey = Color(0xfff6f6f6)
+val FunctionalDarkGrey = Color(0xff2e2e2e)
+
+val Neutral8 = Color(0xff121212)
+val Neutral7 = Color(0xde000000)
+val Neutral6 = Color(0x99000000)
+val Neutral5 = Color(0x61000000)
+val Neutral4 = Color(0x1f000000)
+val Neutral3 = Color(0x1fffffff)
+val Neutral2 = Color(0x61ffffff)
+val Neutral1 = Color(0xbdffffff)
+val Neutral0 = Color(0xffffffff)
+
+const val AlphaNearOpaque = 0.95f
